@@ -1,0 +1,23 @@
+{
+  "name": "node-ts-template",
+  "version": "1.0.0",
+  "description": "A template for starting Typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkmaibach/node-ts-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkmaibach/node-ts-template/issues"
+  },
+  "homepage": "https://github.com/bkmaibach/node-ts-template#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
